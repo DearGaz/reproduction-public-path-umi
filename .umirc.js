@@ -1,4 +1,5 @@
 // https://umijs.org/config/
+// test
 export default {
   // add for transfer to umi
   base: 'pages/',
